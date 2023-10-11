@@ -29,11 +29,3 @@ We've put together some helpful guides for you to get setup with our product qui
 {% content-ref url="dream-token/dream-token-and-tokenomics.md" %}
 [dream-token-and-tokenomics.md](dream-token/dream-token-and-tokenomics.md)
 {% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
