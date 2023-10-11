@@ -14,11 +14,8 @@
 
 ## DREAM TOKEN
 
-* [🛠 DREAM Token and Tokenomics](dream-token/dream-token-and-tokenomics/README.md)
-  * [📝 Setting permissions](dream-token/dream-token-and-tokenomics/setting-permissions.md)
-  * [🧑 Inviting Members](dream-token/dream-token-and-tokenomics/inviting-members.md)
+* [🛠 DREAM Token and Tokenomics](dream-token/dream-token-and-tokenomics.md)
 
-## Use Cases
+## LINKS
 
-* [🎨 For Designers](use-cases/for-designers.md)
-* [🖥 For Developers](use-cases/for-developers.md)
+* [X](https://x.com/DreamByt3)

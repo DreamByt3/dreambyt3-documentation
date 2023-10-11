@@ -6,7 +6,7 @@
 
 ## Overview
 
-General background of DreamByt3:
+General background of DreamByt3
 
 > DreamByt3 is an NFT marketplace that offers low fees, and revenue sharing for token stakers.
 >
@@ -26,14 +26,14 @@ General background of DreamByt3:
 
 We've put together some helpful guides for you to get setup with our product quickly and easily.
 
-{% content-ref url="dream-token/dream-token-and-tokenomics/" %}
-[dream-token-and-tokenomics](dream-token/dream-token-and-tokenomics/)
+{% content-ref url="dream-token/dream-token-and-tokenomics.md" %}
+[dream-token-and-tokenomics.md](dream-token/dream-token-and-tokenomics.md)
 {% endcontent-ref %}
 
-{% content-ref url="dream-token/dream-token-and-tokenomics/setting-permissions.md" %}
-[setting-permissions.md](dream-token/dream-token-and-tokenomics/setting-permissions.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="dream-token/dream-token-and-tokenomics/inviting-members.md" %}
-[inviting-members.md](dream-token/dream-token-and-tokenomics/inviting-members.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}

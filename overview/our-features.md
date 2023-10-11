@@ -1,17 +1,11 @@
 # ✨ Our Features
 
-{% hint style="info" %}
-**GitBook tip:** A succinct video overview is a great way to introduce folks to your product. Embed a Loom, Vimeo or YouTube video and you're good to go! We love this video from the fine folks at Loom as a perfect example of a succinct feature overview.
-{% endhint %}
+**Passive Income:** Like recurring passive income? Consider staking $DREAM LP tokens to get your share of protocol fees, on a weekly basis, claimable in $ETH.
 
 ## Low Fees
 
-Get amazing things done with awesome feature one. But remember that awesome feature two and three exist too. In fact, Awesome Product is full of awesome features.
+A flat 1% fee will be the marketplace fee to trade on DreamByt3.
 
-![](https://images.unsplash.com/photo-1555774698-0b77e0d5fac6?crop=entropy\&cs=tinysrgb\&fm=jpg\&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwyfHxhcHB8ZW58MHx8fHwxNjYwNTgzMzQz\&ixlib=rb-1.2.1\&q=80)
+### Revenue Sharing
 
-## Revenue Sharing
-
-Get amazing things done with awesome feature two. But remember that awesome feature one and three exist too. In fact, Awesome Product is full of awesome features.
-
-![](https://images.unsplash.com/photo-1569144157591-c60f3f82f137?crop=entropy\&cs=tinysrgb\&fm=jpg\&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxfHxmZWF0dXJlfGVufDB8fHx8MTY2MDU4MzM1OQ\&ixlib=rb-1.2.1\&q=80)
+50% of all marketplace fees will be distributed to $DREAM LP stakers, every single week.

@@ -1,17 +1,20 @@
 # 📎 Media Kit
 
-## How Projects work
+## Brand Assets
 
-The DreamByt3 Brand and Media Kit is for anyone to use.
+Here are DreamByt3 media assets for use in partnership and collaboration announcements - included here are logos and icons in PNG formats
 
-### The Basics
+### Usage Guidelines
 
-| Color          | Hex Code |
-| -------------- | -------- |
-| DreamByt3 Pink | #f4a7bb  |
-|                |          |
-|                |          |
+* ONLY use the DreamByt3 logos and icons in their original form.
+* Do not place the logo on backgrounds that provide insufficient contrast, or would create confusion.
+* Do not stretch, compress, or add effects (like shadows/gradients) to the DreamByt3 logo.
+* Do not change or edit the colors in the DreamByt3 logo.
 
-### Organizing your Projects
+### DreamByt3 Color Palette
 
-DreamByt3 aims to become more than a NFT marketplace in time, but has strategically focsed on deploying on Ethereum Mainnet as this is where the users are.
+|      Color      |   Hex   |
+| :-------------: | :-----: |
+|  DreamByt3 Pink | #f4a7bb |
+| DreamByt3 Black | #000000 |
+| DreamByt3 White | #ffffff |
