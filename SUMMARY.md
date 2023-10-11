@@ -19,3 +19,4 @@
 ## LINKS
 
 * [X](https://x.com/DreamByt3)
+* [Blog](https://medium.com/@DreamByt3)
