@@ -7,6 +7,10 @@ description: >-
 
 # 🛠 DREAM Token and Tokenomics
 
-<figure><img src="../.gitbook/assets/DREAM_Token_Icon_128 x 128.png" alt=""><figcaption><p>$DREAM</p></figcaption></figure>
+
+
+<figure><img src="../.gitbook/assets/DREAM_Tokenomics_Black_BG.png" alt=""><figcaption><p>$DREAM Token Allocation</p></figcaption></figure>
+
+**Total Supply: 1,000,000,000**
 
 **TGE: Q4 2023**

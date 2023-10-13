@@ -8,4 +8,4 @@ A flat 1% fee will be the marketplace fee to trade on DreamByt3.
 
 ### Revenue Sharing
 
-50% of all marketplace fees will be distributed to $DREAM LP stakers, every single week.
+50% of all marketplace fees will be distributed to $DREAM LP stakers in $ETH, every single week pro-rata to their share of veDREAM.
