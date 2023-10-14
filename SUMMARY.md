@@ -20,4 +20,6 @@
 ## LINKS
 
 * [X](https://x.com/DreamByt3)
-* [Blog](https://medium.com/@DreamByt3)
+* [Medium](https://medium.com/@DreamByt3)
+* [Discord](https://discord.com/invite/E4XkFnVypu)
+* [App](https://dreambyt3.com)
