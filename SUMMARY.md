@@ -15,6 +15,7 @@
 ## DREAM TOKEN
 
 * [🛠 DREAM Token and Tokenomics](dream-token/dream-token-and-tokenomics.md)
+* [🥩 veDREAM and DREAM Staking](dream-token/vedream-and-dream-staking.md)
 
 ## LINKS
 
