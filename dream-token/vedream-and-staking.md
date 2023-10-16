@@ -1,6 +1,6 @@
-# 🥩 veDREAM and DREAM Staking
+# 🥩 veDREAM and Staking
 
-veDREAM: Real Yield From Staking
+veDREAM = Real Yield
 
 ***
 
