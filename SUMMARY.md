@@ -12,10 +12,19 @@
 * [📪 Team](resources/team.md)
 * [📎 Media Kit](resources/media-kit.md)
 
+***
+
+* [DEVELOPERS](developers.md)
+
 ## DREAM TOKEN
 
 * [🛠 DREAM Token and Tokenomics](dream-token/dream-token-and-tokenomics.md)
 * [🥩 veDREAM and Staking](dream-token/vedream-and-staking.md)
+
+## DEVELOPERS
+
+* [🏗 Multisig Addresses](developers-1/multisig-addresses.md)
+* [📜 Contract Addresses](developers-1/contract-addresses.md)
 
 ## LINKS
 
