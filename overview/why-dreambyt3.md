@@ -1,4 +1,4 @@
-# ✨ Our Features
+# ⭐ Why DREAMBYT3
 
 **Passive Income:** Like recurring passive income? Consider staking $DREAM LP tokens to get your share of protocol fees, on a weekly basis, claimable in $ETH.
 

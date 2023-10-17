@@ -1,4 +1,4 @@
-# 📪 Team
+# 🫂 DREAMBYT3 Team
 
 <figure><img src="../.gitbook/assets/1600 x 900_DreamByt3.png" alt=""><figcaption><p>DreamByt3</p></figcaption></figure>
 

@@ -1,4 +1,4 @@
-# 👋 Welcome to DreamByt3
+# ⚡ Welcome to DREAMBYT3
 
 {% hint style="info" %}
 **Calling all Dreamers:** DreamByt3 is a non-fungible protocol built to solve the problems the NFT ecosystem is currently facing.&#x20;
@@ -18,8 +18,8 @@ General background of DreamByt3
 [connecting-to-dreambyt3.md](overview/connecting-to-dreambyt3.md)
 {% endcontent-ref %}
 
-{% content-ref url="overview/our-features.md" %}
-[our-features.md](overview/our-features.md)
+{% content-ref url="overview/why-dreambyt3.md" %}
+[why-dreambyt3.md](overview/why-dreambyt3.md)
 {% endcontent-ref %}
 
 ## Get Started

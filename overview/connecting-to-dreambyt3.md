@@ -1,4 +1,4 @@
-# 💡 Connecting to DreamByt3
+# ☑ Connecting to DREAMBYT3
 
 **Helpful tip:** In order to create or trade NFTs on DreamByt3, you will first need a digital wallet connected. These wallets are your what you can think of as your account in web3, and are available as an extension for popular browsers, or as native apps on your mobile device.
 
