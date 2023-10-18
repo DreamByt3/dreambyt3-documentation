@@ -28,8 +28,8 @@
 
 ## LINKS
 
-* [App](https://dreambyt3.com)
+* [DREAMBYT3 App](https://dreambyt3.com)
 * [X](https://x.com/DreamByt3)
 * [Discord](https://discord.com/invite/E4XkFnVypu)
 * [Medium](https://medium.com/@DreamByt3)
-* [Snapshot Space](https://snapshot.org/#/dreambyt3.eth)
+* [Governance](https://snapshot.org/#/dreambyt3.eth)
