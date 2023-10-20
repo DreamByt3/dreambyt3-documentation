@@ -1,30 +1,27 @@
 # Table of contents
 
+## DREAMBYT3 INTRODUCTION
+
 * [⚡ Welcome to DREAMBYT3](README.md)
-
-## Overview
-
-* [☑ Connecting to DREAMBYT3](overview/connecting-to-dreambyt3.md)
-* [⭐ Why DREAMBYT3](overview/why-dreambyt3.md)
-
-## Resources
-
-* [🫂 DREAMBYT3 Team](resources/dreambyt3-team.md)
-* [📎 Media Kit](resources/media-kit.md)
-
-***
-
-* [DEVELOPERS](developers.md)
+* [☑ Connecting to DREAMBYT3](dreambyt3-introduction/connecting-to-dreambyt3.md)
+* [⭐ Why DREAMBYT3](dreambyt3-introduction/why-dreambyt3.md)
 
 ## DREAM TOKEN
 
 * [🛠 DREAM Token and Tokenomics](dream-token/dream-token-and-tokenomics.md)
 * [📈 veDREAM and Staking](dream-token/vedream-and-staking.md)
 
+## Resources
+
+* [🤼 DREAMBYT3 Team](resources/dreambyt3-team.md)
+* [📞 Contact Us](resources/contact-us.md)
+* [📎 Media Kit](resources/media-kit.md)
+* [⚠ Disclaimers](resources/disclaimers.md)
+
 ## DEVELOPERS
 
-* [📜 Contract Addresses](developers-1/contract-addresses.md)
-* [🏗 Multisig Addresses](developers-1/multisig-addresses.md)
+* [📜 Contract Addresses](developers/contract-addresses.md)
+* [🏗 Multisig Address](developers/multisig-address.md)
 
 ## LINKS
 

@@ -17,7 +17,9 @@ Here are DREAMBYT3 media assets for use in partnership and collaboration announc
 
 <figure><img src="../.gitbook/assets/veDREAM_128.png" alt=""><figcaption><p>veDREAM 128 x 128 PNG</p></figcaption></figure>
 
+DREAMBYT3 Primary Logos
 
+<figure><img src="../.gitbook/assets/1600 x 900_DreamByt3.png" alt="" width="375"><figcaption><p>1600 x 900 PNG</p></figcaption></figure>
 
 DREAMBYT3 Color Palette
 

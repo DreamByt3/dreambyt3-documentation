@@ -1,6 +1,6 @@
 # 📈 veDREAM and Staking
 
-veDREAM = Real Yield
+veDREAM = Passive Income
 
 ***
 
