@@ -19,14 +19,14 @@ As the team believes deeply in the values of web3, decentralization, and open-so
 
 ### **Allocation**
 
-1 billion DREAM have been minted at genesis and will become accessible over the course of 4 years. If you are familiar with UNI, you will notice that DREAM follows a similar schedule, with additional cliffs and longer vesting for advisors. The initial 4 year allocation is as follows:&#x20;
+1 billion DREAM have been minted at genesis and will become accessible in time. If you are familiar with UNI (Uniswap Token), you will notice that DREAM follows a similar schedule, with  cliffs and vesting for advisors. The initial allocation is as follows:&#x20;
 
 * 51% to DREAMBYT3 community members _`510,000,000 DREAM`_&#x20;
-* 28% to past and future core contributors with 2-year vesting _`280,000,000 DREAM`_&#x20;
-* 8% to investors with 4-year vesting _`80,000,000 DREAM`_&#x20;
-* 3% to advisors with 4-year vesting _`30,000,000 DREAM`_&#x20;
+* 28% to past and future core contributors with 1-month cliff 1-year vesting _`280,000,000 DREAM`_&#x20;
+* 8% to investors with 3-month cliff and 1-year vesting _`80,000,000 DREAM`_&#x20;
+* 3% to advisors with 3-month cliff and 1-year vesting _`30,000,000 DREAM`_&#x20;
 * 10% to the DREAM LBP event _`100,000,000 DREAM`_&#x20;
 
 Total DREAM Supply: _`1,000,000,000 DREAM`_&#x20;
 
-Core contributors' and launch partners' DREAM allocations will have tokens vested on an identical schedule with the addition of a 4 month cliff for transfers. Advisors' DREAM allocation will vest over 48 months with a 4 month cliff.
+Core contributors' and launch partners' DREAM allocations will have tokens vested on an identical schedule with the addition of a 1 month cliff for transfers. Advisors' DREAM allocation will vest over 12 months with a 3 month cliff.
