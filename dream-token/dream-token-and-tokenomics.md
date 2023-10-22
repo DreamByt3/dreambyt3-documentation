@@ -5,7 +5,7 @@ description: >-
   DREAMBYT3 universe.
 ---
 
-# 🛠 DREAM Token and Tokenomics
+# 🪙 DREAM Token and Tokenomics
 
 
 
