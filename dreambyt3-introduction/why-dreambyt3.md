@@ -1,6 +1,27 @@
+---
+cover: ../.gitbook/assets/3500 x 2000.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # ⭐ Why DREAMBYT3
 
-**TLDR:** Do you like passive income? Consider staking $DREAM LP tokens to get your share of protocol fees, on a weekly basis, claimable in $ETH.
+### TLDR:
+
+Do you like passive income? Consider staking $DREAM LP tokens to get your share of protocol fees, on a weekly basis, claimable in $WETH.
 
 ### Revenue Sharing
 
@@ -8,4 +29,4 @@
 
 ### Low Fees
 
-A flat 1% fee is the marketplace fee to trade NFTs on DREAMBYT3.
+A flat 1% fee is all it costs to trade NFTs on the DREAMBYT3 marketplace.

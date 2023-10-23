@@ -30,3 +30,5 @@ As the team believes deeply in the values of web3, decentralization, and open-so
 Total DREAM Supply: _`1,000,000,000 DREAM`_&#x20;
 
 Core contributors' and launch partners' DREAM allocations will have tokens vested on an identical schedule with the addition of a 1 month cliff for transfers. Advisors' DREAM allocation will vest over 12 months with a 3 month cliff.
+
+<figure><img src="../.gitbook/assets/1600 x 900_DreamByt3 (2).png" alt=""><figcaption></figcaption></figure>

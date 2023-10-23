@@ -1,8 +1,8 @@
 # 📎 Media Kit
 
-Brand Assets
+### DREAMBYT3 Brand Assets
 
-Here are DREAMBYT3 media assets for use in partnership and collaboration announcements - included here are logos and icons in PNG formats
+Here are DREAMBYT3 media assets for use in partnership and collaboration announcements - included are logos and icons in PNG formats.
 
 ### Usage Guidelines
 
@@ -21,7 +21,7 @@ DREAMBYT3 Primary Logos
 
 <figure><img src="../.gitbook/assets/1600 x 900_DreamByt3.png" alt="" width="375"><figcaption><p>1600 x 900 PNG</p></figcaption></figure>
 
-DREAMBYT3 Color Palette
+### DREAMBYT3 Color Palette
 
 |      Color      |   Hex   |
 | :-------------: | :-----: |

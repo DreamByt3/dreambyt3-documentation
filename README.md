@@ -25,9 +25,9 @@ layout:
 
 ## Overview
 
-> DREAMBYT3 is an NFT marketplace that and an innovative revenue sharing mechanism for $DREAM token stakers, allowing for them to earn a weekly passive income from protocol trading fees.
+> DREAMBYT3 is an NFT marketplace that and an innovative revenue sharing mechanism for $DREAM token stakers, allowing for them to earn weekly passive income from protocol trading fees.
 >
-> With DREAMBYT3, you can trade NFTs, and also benefit from contributing to the NFT ecosystem at large. Your rewards as a staker are claimable every week in $ETH.
+> With DREAMBYT3, you can trade NFTs, and also benefit from contributing to the NFT ecosystem at large. Your rewards as a staker are claimable every week in $WETH.
 
 ## Quick links
 

@@ -7,6 +7,8 @@ This is the DREAMBYT3 Core team. As we grow and decentralize the DREAM DAO, we w
 * **Nemo (Dream CMO)** Nemo is the marketing lead at DREAMBYT3, in charge of building the brand and social awareness for the protocol. Nemo has significant promotional experience across the NFT ecosystem and top Ethereum marketplace relationships.
 * **SirJoey (Dream COO)** SirJoey is a web3 OG with vast experience in the NFT space and a keen interest in helping NFTs gain wider adoption, and recover from the self-inflicted pain to the market caused by OpenSea and Blur. He is tasked with leading the BD initiatives for DREAMBYT3 and showing others there is a sustainable way to build an NFT marketplace.
 
-<figure><img src="../.gitbook/assets/1600 x 900_DreamByt3 (1).png" alt=""><figcaption><p>DREAMBYT3</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/1600 x 900_DreamByt3 (1).png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %}
 The DREAMBYT3 Team combines some of the most talented individuals from the web3 and NFT space, brought together by a shared vision for creating a sustainable NFT ecosystem.
+{% endhint %}

@@ -17,3 +17,5 @@ You can click on any of the above links to the corresponding wallet provider in 
 
 Once you have installed a wallet or already have one ready to go - it’s time to connect it to DREAMBYT3. Click "Connect Wallet" and follow the prompts!
 
+<figure><img src="../.gitbook/assets/1600 x 900_DreamByt3 (2).png" alt=""><figcaption></figcaption></figure>
+
