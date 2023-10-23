@@ -20,7 +20,7 @@ layout:
 # 🌠 Welcome to DREAMBYT3
 
 {% hint style="info" %}
-**Calling all Dreamers:** DREAMBYT3 is a NFT marketplace built to solve the problems the NFT ecosystem is currently facing.
+**Calling all Dreamers:** DREAMBYT3 is an NFT marketplace built to solve the problems the NFT ecosystem is currently facing.
 {% endhint %}
 
 ## Overview
