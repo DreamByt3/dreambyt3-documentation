@@ -13,13 +13,13 @@ description: >-
 
 **Total Supply: 1,000,000,000**
 
-**TGE: October 30th, 2023 - Fjord Foundry**
+**TGE: October 30th - November 2nd, 2023 - Fjord Foundry**
 
 As the team believes deeply in the values of web3, decentralization, and open-source software, the launch of the $DREAM token has been designed with all of this in mind, and will be conducted using a "Fair Launch Auction", as opposed to other TGE events.&#x20;
 
 ### **Allocation**
 
-1 billion DREAM have been minted at genesis and will become accessible in time. If you are familiar with UNI (Uniswap Token), you will notice that DREAM follows a similar schedule, with  cliffs and vesting for advisors. The initial allocation is as follows:&#x20;
+1 billion DREAM have been minted at genesis and will become accessible in time. If you are familiar with UNI (Uniswap Token), you will notice that DREAM follows a similar schedule, with cliffs and vesting for advisors. The initial allocation is as follows:&#x20;
 
 * 51% to DREAMBYT3 community members _`510,000,000 DREAM`_&#x20;
 * 28% to past and future core contributors with 1-month cliff 1-year vesting _`280,000,000 DREAM`_&#x20;
