@@ -29,6 +29,10 @@ layout:
 >
 > With DREAMBYT3, you can trade NFTs, and also benefit from contributing to the NFT ecosystem at large. Your rewards as a staker are claimable every week in $WETH.
 
+{% hint style="info" %}
+The $DREAM LBP on Fjord Foundry goes LIVE on 30/10/23! Make sure to check it out and grab some $DREAM tokens at Fjord - link to the LBP is here: [https://fjordfoundry.com/pools/mainnet/0x80bA1773E82070c284907EAEe2Ba05453F14F071](https://fjordfoundry.com/pools/mainnet/0x80bA1773E82070c284907EAEe2Ba05453F14F071)
+{% endhint %}
+
 ## Quick links
 
 {% content-ref url="dreambyt3-introduction/connecting-to-dreambyt3.md" %}
