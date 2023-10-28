@@ -9,6 +9,7 @@
 ## DREAM TOKEN
 
 * [🪙 DREAM Token and Tokenomics](dream-token/dream-token-and-tokenomics.md)
+* [💹 DREAMonomics](dream-token/dreamonomics.md)
 * [📈 veDREAM and Staking](dream-token/vedream-and-staking.md)
 
 ## Resources
