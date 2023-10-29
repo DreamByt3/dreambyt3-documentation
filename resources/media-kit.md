@@ -1,10 +1,5 @@
 ---
-cover: ../.gitbook/assets/3500 x 2500_Black.png
-coverY: 0
 layout:
-  cover:
-    visible: true
-    size: full
   title:
     visible: true
   description:
