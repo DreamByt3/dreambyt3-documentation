@@ -1,5 +1,5 @@
 ---
-description: The Sustainable NFT Marketplace
+description: First Sustainable NFT Marketplace - Powered by $DREAM and the Community
 cover: .gitbook/assets/3500 x 2000.png
 coverY: -32.371453138435086
 layout:
