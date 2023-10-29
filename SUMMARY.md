@@ -4,6 +4,7 @@
 
 * [🌠 Welcome to DREAMBYT3](README.md)
 * [⭐ Why DREAMBYT3?](dreambyt3-introduction/why-dreambyt3.md)
+* [💧 $DREAM Airdrop Seasons](dreambyt3-introduction/usddream-airdrop-seasons.md)
 * [☑ Connecting to DREAMBYT3](dreambyt3-introduction/connecting-to-dreambyt3.md)
 
 ## DREAM TOKEN
@@ -14,9 +15,9 @@
 
 ## Resources
 
-* [🤼 DREAMBYT3 Team](resources/dreambyt3-team.md)
 * [📎 Media Kit](resources/media-kit.md)
 * [📞 Contact Us](resources/contact-us.md)
+* [🤼 DREAMBYT3 Team](resources/dreambyt3-team.md)
 * [⚠ Disclaimers](resources/disclaimers.md)
 
 ## DEVELOPERS
@@ -26,7 +27,6 @@
 
 ## LINKS
 
-* [DREAMBYT3 App](https://dreambyt3.com)
 * [X](https://x.com/DreamByt3)
 * [Discord](https://discord.com/invite/E4XkFnVypu)
 * [Medium](https://medium.com/@DreamByt3)

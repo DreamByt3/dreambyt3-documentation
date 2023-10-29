@@ -6,9 +6,9 @@ The DREAMBYT3 Multisig is a Safe configured as a 3/7 on Ethereum Mainnet.
 
 ### Ethereum
 
-|      Contract      |   Type   |                   Address                  |
-| :----------------: | :------: | :----------------------------------------: |
-| DREAMBYT3 Multisig | Multisig | 0x230DED0b8D0267e3305BC0426BF71d093e6d6f99 |
+|      Contract      |   Type   |                                                        Address                                                        |
+| :----------------: | :------: | :-------------------------------------------------------------------------------------------------------------------: |
+| DREAMBYT3 Multisig | Multisig | [0x230DED0b8D0267e3305BC0426BF71d093e6d6f99](https://etherscan.io/address/0x230ded0b8d0267e3305bc0426bf71d093e6d6f99) |
 
 ### Signers
 

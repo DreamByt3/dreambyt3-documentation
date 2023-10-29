@@ -1,6 +1,8 @@
-# 💹 DREAMonomics
+---
+description: 'DREAM Token Economy: Fueling the NFT Renaissance.'
+---
 
-DREAM Token Economy: Fueling the NFT Renaissance.&#x20;
+# 💹 DREAMonomics
 
 ***
 

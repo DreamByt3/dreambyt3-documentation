@@ -1,6 +1,8 @@
-# 📈 veDREAM and Staking
+---
+description: veDREAM = Passive Income
+---
 
-veDREAM = Passive Income
+# 📈 veDREAM and Staking
 
 ***
 
@@ -15,7 +17,7 @@ In short, if a user locks 1 DREAM LP for 1 year, they will receive the same amou
 * veDREAM is the governance unit of DREAMBYT3, used in Snapshot voting to authorize changes to the DAO including the management (adding/removing) of incentive programs, new gauges and funding of service providers.
 * veDREAM holders will be entitled to all revenue sharing from DREAMBYT3. The handling and amount of protocol fees are subject to change based on the DREAMBYT3 Governance Process.
 
-In the same breath, the token supply schedule for DREAM has been defined and is set permanently. A key takeaway for the tokenomic schedule is the total supply of DREAM being capped at 1,000,000,000. There are never going to be more than 1,000,000,000 DREAM tokens - and so over time, each token will grow more valuable as the protocol continues to create useful and revenue generating products and services for its holders and stakers.
+Additionally, the token supply schedule for DREAM has been defined and is set permanently. A key takeaway for the tokenomic schedule is the total supply of DREAM being capped at 1,000,000,000. There are never going to be more than 1,000,000,000 DREAM tokens - and so over time, each token will grow more valuable as the protocol continues to create useful and revenue generating products and services for its holders and stakers.
 
 #### How is veDREAM different from veBAL and veCRV? <a href="#how-is-xnfte-different-from-vebal-and-vecrv" id="how-is-xnfte-different-from-vebal-and-vecrv"></a>
 
