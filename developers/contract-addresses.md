@@ -1,6 +1,8 @@
-# 📜 Contract Addresses
+---
+description: DREAMBYT3 Contract Addresses
+---
 
-DREAMBYT3 Contract Addresses
+# 📜 Contract Addresses
 
 ***
 

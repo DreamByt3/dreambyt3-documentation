@@ -1,11 +1,11 @@
 ---
 description: Gamifying Incentives
 cover: ../.gitbook/assets/3500 x 2000.png
-coverY: 0
+coverY: -33.61650902837489
 layout:
   cover:
     visible: true
-    size: hero
+    size: full
   title:
     visible: true
   description:
@@ -22,7 +22,7 @@ layout:
 
 ### $DREAM Airdrops:
 
-We all witnessed what took place when Blur introduced a token tied to specific user incentives onchain. By employing data-driven analytics, we can see what worked well, what didn't work quite so well, and continually refine user acquisition to the DREAMBYT3 marketplace. And with the teams foundational focus on sustainability, an hence the veToken model being implemented, the ability to **retain** those users grows exponentially.
+We all witnessed what took place when Blur introduced a token tied to specific user incentives onchain. By employing data-driven analytics, we can see what worked well, what didn't work quite so well, and continually refine user acquisition to the DREAMBYT3 marketplace. And with the team's foundational focus on sustainability, an example of which is using the veToken model, the ability to **retain** those users on DREAMBYT3 marketplace grows exponentially.
 
 {% hint style="info" %}
 We asked: what if we could break down Blur's algorithm, and use Machine Learning to dramatically improve the effectiveness of the incentives being offered?&#x20;

@@ -1,6 +1,8 @@
-# 🏗 Multisig Address
+---
+description: The DREAMBYT3 Multisig is a Safe configured as a 3/7 on Ethereum Mainnet.
+---
 
-The DREAMBYT3 Multisig is a Safe configured as a 3/7 on Ethereum Mainnet.
+# 🏗 Multisig Address
 
 ***
 
