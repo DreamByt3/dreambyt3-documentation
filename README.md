@@ -1,7 +1,7 @@
 ---
 description: First Sustainable NFT Marketplace - Powered by $DREAM and the Community
-cover: .gitbook/assets/3500 x 2000.png
-coverY: -32.371453138435086
+cover: .gitbook/assets/1600 x 900_DreamByt3 (2).png
+coverY: 21
 layout:
   cover:
     visible: true

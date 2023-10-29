@@ -1,7 +1,7 @@
 ---
 description: Gamifying Incentives
-cover: ../.gitbook/assets/3500 x 2000.png
-coverY: -33.61650902837489
+cover: ../.gitbook/assets/1600 x 900_DreamByt3 (2).png
+coverY: 40
 layout:
   cover:
     visible: true

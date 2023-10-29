@@ -1,6 +1,6 @@
 ---
-cover: ../.gitbook/assets/3500 x 2000.png
-coverY: -26.146173688736027
+cover: ../.gitbook/assets/1600 x 900_DreamByt3 (2).png
+coverY: 40
 layout:
   cover:
     visible: true
