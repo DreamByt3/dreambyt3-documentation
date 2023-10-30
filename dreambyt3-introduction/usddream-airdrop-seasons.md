@@ -22,7 +22,7 @@ layout:
 
 ### $DREAM Airdrops:
 
-We all witnessed what took place when Blur introduced a token tied to specific user incentives onchain. By employing data-driven analytics, we can see what worked well, what didn't work quite so well, and continually refine user acquisition to the DREAMBYT3 marketplace. And with the team's foundational focus on sustainability, an example of which is using the veToken model, the ability to **retain** those users on DREAMBYT3 marketplace grows exponentially.
+We all witnessed what took place when Blur introduced a token tied to specific user incentives onchain. By employing data-driven analytics, we can see what worked well, what didn't work quite so well, and continually refine user acquisition to the DREAMBYT3 marketplace. And with the team's foundational focus on sustainability, an example of which is using the veToken model, the ability to **retain** those users on the DREAMBYT3 marketplace grows exponentially.
 
 {% hint style="info" %}
 We asked: what if we could break down Blur's algorithm, and use Machine Learning to dramatically improve the effectiveness of the incentives being offered?&#x20;
@@ -32,7 +32,7 @@ What we ended up with is the DREAMBYT3 Airdrop Seasons Formula, of which there w
 \
 As a concrete example, have a look at how we've optimized Season 1 for building marketplace NFT liquidity while also encouraging a healthy supply of the $DREAM token liquidity onchain.
 
-Blur used 4 primary factors as their primary drivers of accumulating Points, in addition to those 4, we identified 3 specific areas to that make logical sense for improving upon the Blur formula. These additions will allow users to earn additional XP Points in an even more user/marketplace alignment of incentives, which is our goal. Like Blur, we will operate a 24 hour rolling leaderboard, with a new round set to begin every 24 hours at 00:00 UTC.\
+Blur used 4 primary factors in accumulating Points, in addition to those 4, we identified 3 specific areas to that make logical sense for improving upon the Blur formula. These additions will allow users to earn additional XP Points in an even more economically aligned format between the marketplace and users, which is always our goal - finding new avenues for sustainability. Like Blur, we will operate a 24 hour rolling leaderboard, with a new round set to begin every 24 hours at 00:00 UTC.\
 \
 **DREAMBYT3 Algorithm Innovations:**
 
