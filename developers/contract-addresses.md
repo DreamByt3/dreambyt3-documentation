@@ -12,7 +12,7 @@ description: DREAMBYT3 Contract Addresses
 | :----------------: | :-------------: | :------------------------------------------------------------------------------------------------------------------------: |
 |        DREAM       |      Token      |  [0xEBcF2FbE20e7bBBD5232EB186B85c143d362074e](https://etherscan.io/token/0xEBcF2FbE20e7bBBD5232EB186B85c143d362074e#code)  |
 |  Fjord Foundry LBP |       LBP       |     [0x80bA1773E82070c284907EAEe2Ba05453F14F071](https://etherscan.io/token/0x80ba1773e82070c284907eaee2ba05453f14f071)    |
-|  Balancer/Uniswap  |  Liquidity Pool |                                                         Coming Soon                                                        |
+|       Uniswap      |  Liquidity Pool |                                                         Coming Soon                                                        |
 |       veDREAM      |     Staking     |                                                         Coming Soon                                                        |
 |   FeeDistributor   | Revenue Sharing |                                                         Coming Soon                                                        |
 | TimelockController |   DAO Utility   | [0x21e2547E15F5cF58dcB48Bbe059Bd7836DF87Ed2](https://etherscan.io/address/0x21e2547e15f5cf58dcb48bbe059bd7836df87ed2#code) |
