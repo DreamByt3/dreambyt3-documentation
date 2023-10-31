@@ -23,7 +23,7 @@ layout:
 ### Overview
 
 {% hint style="info" %}
-**The** [**$DREAM LBP on Fjord Foundry**](https://fjordfoundry.com/pools/mainnet/0x80bA1773E82070c284907EAEe2Ba05453F14F071) **goes LIVE on 30/10/23 at 13:00 UTC! Make sure to check it out and grab some $DREAM tokens at Fjord.**\
+**The** [**$DREAM LBP on Fjord Foundry**](https://fjordfoundry.com/pools/mainnet/0x80bA1773E82070c284907EAEe2Ba05453F14F071) **is LIVE! Make sure to check it out and grab some $DREAM tokens at Fjord - it concludes 2/11/2023 at 13:00 UTC.**\
 \
 **Link to the LBP is** [**HERE.**](https://fjordfoundry.com/pools/mainnet/0x80bA1773E82070c284907EAEe2Ba05453F14F071)
 {% endhint %}

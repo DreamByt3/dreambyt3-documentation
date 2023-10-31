@@ -28,7 +28,7 @@ We all witnessed what took place when Blur introduced a token tied to specific u
 We asked: what if we could break down Blur's algorithm, and use Machine Learning to dramatically improve the effectiveness of the incentives being offered?&#x20;
 {% endhint %}
 
-What we ended up with is the DREAMBYT3 Airdrop Seasons Formula, of which there will be 3 Seasons, which in total will end up comprising a majority of the entire $DREAM token supply allocation.\
+What we ended up with is the DREAMBYT3 Airdrop Seasons Formula, of which there will be 3 Seasons. In total, the Airdrop Seasons will end up comprising a majority of the entire $DREAM token supply allocation.\
 \
 As a concrete example, have a look at how we've optimized Season 1 for building marketplace NFT liquidity while also encouraging a healthy supply of the $DREAM token liquidity onchain.
 
@@ -62,14 +62,14 @@ DREAMBYT3 Algorithm = XP_j = k1 * Risk_j + k2 * Time_j + k3 * CollectionActivity
 
 ### Season 1
 
-Season 1 will be largely about creating momentum for DREAMBYT3 and showing NFT users that not only is their a sustainable NFT marketplace that has been built, but also that they can be rewarded in a potentially significant way by participating.&#x20;
+Season 1 will be largely about creating momentum for DREAMBYT3 and showing NFT users that not only is there a sustainable NFT marketplace that has been built, but also that they can be rewarded in a potentially significant way by trading on this marketplace.&#x20;
 
 ### Season 2
 
-Will begin after Season 1, and will incentivize different behaviors as the DREAMBYT3 marketplace matures and establishes strong moat in the NFT marketplace arena.&#x20;
+Will begin after Season 1, and will incentivize different onchain actions and outcomes as the DREAMBYT3 marketplace matures and establishes a strong moat in the NFT marketplace arena.&#x20;
 
 ### Season 3
 
-Season 3 will be the longest last, and largest allocation of $DREAM tokens, refined and designed to be delivered to the most loyal and transparently fair airdrop in web3 history.
+Season 3 will be the longest lasting, and will also comprise the largest allocation of $DREAM tokens, refined and designed to be delivered to the most loyal DREAM DAO community members.
 
 <figure><img src="../.gitbook/assets/DREAM_128.png" alt=""><figcaption><p>$DREAM</p></figcaption></figure>
