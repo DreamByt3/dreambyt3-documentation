@@ -27,7 +27,12 @@
 
 ## LINKS
 
+* [Marketplace App](https://dreambyt3.com)
 * [X](https://x.com/DreamByt3)
 * [Discord](https://discord.com/invite/E4XkFnVypu)
 * [Medium](https://medium.com/@DreamByt3)
 * [Governance](https://snapshot.org/#/dreambyt3.eth)
+
+***
+
+* [Copy of X](https://x.com/DreamByt3)
