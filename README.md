@@ -23,9 +23,7 @@ layout:
 ### Overview
 
 {% hint style="info" %}
-**The** [**$DREAM LBP on Fjord Foundry**](https://fjordfoundry.com/pools/mainnet/0x80bA1773E82070c284907EAEe2Ba05453F14F071) **is LIVE! Make sure to check it out and grab some $DREAM tokens at Fjord - it concludes 2/11/2023 at 13:00 UTC.**\
-\
-**Link to the LBP is** [**HERE.**](https://fjordfoundry.com/pools/mainnet/0x80bA1773E82070c284907EAEe2Ba05453F14F071)
+**Buy DREAM on Uniswap**[ **HERE**](https://app.uniswap.org/swap?outputCurrency=0xebcf2fbe20e7bbbd5232eb186b85c143d362074e\&chain=ethereum)
 {% endhint %}
 
 > DREAMBYT3 is an NFT marketplace that is built with sustainability in mind and an innovative revenue sharing mechanism for $DREAM token stakers, enabling the ability for stakers to earn weekly passive income from protocol trading fees. With DREAMBYT3, you can trade NFTs, and also benefit from contributing to the NFT ecosystem at large. Your rewards as a staker are claimable every week in $WETH.

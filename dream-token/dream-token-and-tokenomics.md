@@ -7,13 +7,9 @@ description: >-
 
 # 🪙 DREAM Token and Tokenomics
 
-
-
 <figure><img src="../.gitbook/assets/DREAM_Tokenomics_Black_BG.png" alt="" width="375"><figcaption><p>$DREAM Token Allocation</p></figcaption></figure>
 
 **Total Supply: 1,000,000,000**
-
-**LBP: October 30th - November 2nd, 2023 13:00 UTC** [**Fjord Foundry**](https://fjordfoundry.com/pools/mainnet/0x80bA1773E82070c284907EAEe2Ba05453F14F071)
 
 As the team believes deeply in the values of web3, decentralization, and open-source software, the launch of the [$DREAM](https://etherscan.io/token/0xebcf2fbe20e7bbbd5232eb186b85c143d362074e) token has been designed with all of this in mind, and will be conducted using a Fair Launch Auction, as opposed to other types of TGE events as the team believes this is the most sustainable mechanism for bootstrapping liquidity.
 
