@@ -22,6 +22,12 @@ layout:
 
 ### $DREAM Airdrops:
 
+
+
+**Airdrop Season 1 is live**, with announcements to follow about the specifics for XP Points accumulation and how these will be transformed into claimable $DREAM tokens. For now, please be aware snapshots have been taken, snapshots will continue to be taken, and early supporters of the Leaderboard development will be rewarded for their participation. #DreamTime.
+
+### Why Airdrops:
+
 We all witnessed what took place when Blur introduced a token tied to specific user incentives onchain. By employing data-driven analytics, we can see what worked well, what didn't work quite so well, and continually refine user acquisition to the DREAMBYT3 marketplace. And with the team's foundational focus on sustainability, an example of which is using the veToken model, the ability to **retain** those users on the DREAMBYT3 marketplace grows exponentially.
 
 {% hint style="info" %}
