@@ -1,6 +1,6 @@
 ---
 cover: ../.gitbook/assets/1600 x 900_DreamByt3 (2).png
-coverY: 94.05866666666665
+coverY: 62.05866666666665
 layout:
   cover:
     visible: true
