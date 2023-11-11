@@ -4,7 +4,7 @@
 
 **X:** [https://x.com/DreamByt3 ](https://x.com/DreamByt3)
 
-**Discord:** [https://discord.gg/rt5VmK2pKK ](https://discord.gg/rt5VmK2pKK)
+**Discord:** [https://discord.gg/ENKWhXFnHj](https://discord.gg/ENKWhXFnHj)
 
 **Email:** [dev@dreambyt3.com](http://127.0.0.1:5000/u/fgnVBjxjlOOr9N7wptZeSDQBSZk1)
 

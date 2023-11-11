@@ -30,3 +30,5 @@ Remember, a 25% (1/4 of the total) of the DREAMBYT3 marketplace fees are to be d
 {% hint style="info" %}
 Please note, the Collection Voting mechanism is a new innovation that DREAMBYT3 is bringing to the NFT ecosystem. As such, it will evolve in time in order to find the best means of aligning NFT user incentives to support overall ecosystem sustainability.
 {% endhint %}
+
+<figure><img src="../../.gitbook/assets/1600 x 900_DreamByt3 (1).png" alt="" width="563"><figcaption></figcaption></figure>

@@ -12,6 +12,7 @@
 * [🪙 DREAM Token and Tokenomics](dream-token/dream-token-and-tokenomics.md)
 * [💹 DREAMonomics](dream-token/dreamonomics/README.md)
   * [Collection Voting](dream-token/dreamonomics/collection-voting.md)
+  * [Listing Rewards](dream-token/dreamonomics/listing-rewards.md)
 * [📈 veDREAM and Staking](dream-token/vedream-and-staking.md)
 * [⭐ Buy DREAM](dream-token/buy-dream.md)
 

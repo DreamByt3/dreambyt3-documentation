@@ -1,6 +1,6 @@
 # 🤼 DREAMBYT3 Team
 
-### **This is the DREAMBYT3 Core team. As the DREAM DAO grow, we will be looking to add new team members and contributors.**
+### **This is the DREAMBYT3 Core team. As the DREAM DAO grows, we will be looking to add new team members and contributors.**
 
 ***
 
