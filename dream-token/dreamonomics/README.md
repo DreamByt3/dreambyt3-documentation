@@ -16,4 +16,4 @@ DREAMonomics is meant to change the narrative that exists in the NFT ecosystem t
 
 Long-term, the tokenomics are designed in such a way that it will still be the most economically beneficial for users to hold veDREAM, but now, even LPers will receive passive income from participating in the DREAMBYT3 ecosystem. (The additional fee sharing mechanisms enabled by DREAMonomics (LP fees and LP voting incentive fees - are also entirely separate from the Airdrop Seasons of DREAM, which there are set to be 3 Seasons in total, which each becoming more valuable than the one prior.)
 
-<figure><img src="../.gitbook/assets/1600 x 900_DreamByt3 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1600 x 900_DreamByt3 (2).png" alt=""><figcaption></figcaption></figure>
